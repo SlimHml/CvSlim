@@ -1,7 +1,7 @@
 body
 
 {
-    background-image: url("/home/slim/CvSlim/images/backgroundimg.png");
+    background-image: url("images/backgroundimg.png");
 }
 
 .header /* header caracteristics */
