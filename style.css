@@ -127,12 +127,12 @@ aside h3 /* h3 properties */
     font-size: 1.2rem;
 }
 
-.sidebar /* Proprties of the side bar */
+.sidebar /* Proprties of the SIDEBAR */
 
 {
     position: absolute;
     top: 0%;
-    height: 140%;
+    height: 130%;
     width: 15rem;
     background-color: black;
     opacity: 0.35;
