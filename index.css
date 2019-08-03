@@ -27,6 +27,8 @@ body
     font-size: 1.2rem;
 }
 
+/* //////////////////////////////////////////////// END OF THE HEADER /////////////////////////// */
+
 main h2 /* h2 of the main properties */
 
 {
@@ -111,6 +113,8 @@ main .hobbies /* Properties of hobbies */
     color: white;
     text-shadow: 0.2rem 0.1rem black;
 }
+
+/* /////////////////////////////////////////////////////////// END OF THE MAIN //////////////////////////// */
 
 aside .left-border /* properties of the left side bar */
 
