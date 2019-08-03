@@ -4,7 +4,7 @@ body
     background-image: url("/home/slim/CvSlim/images/backgroundimg.png");
 }
 
-.header
+.header /* header caracteristics */
 
 {
     text-align: center;
@@ -13,21 +13,21 @@ body
     text-shadow: 0.2rem 0.1rem black;
 }
 
-.header h2
+.header h2 /* h2 of the header caracteristics */
 
 {
     letter-spacing: 0.3rem;
     font-size: 1.7rem;
 }
 
-.header p
+.header p /* text of the header */
 
 {   
     margin-left: -3rem;
     font-size: 1.2rem;
 }
 
-main h2
+main h2 /* h2 of the main properties */
 
 {
     margin-left: 15.5rem;
@@ -38,13 +38,13 @@ main h2
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .softskills h4
+main .softskills h4 /* h4 of softskills font properties */
 
 {
     font-size: 1.2rem;
 }
 
-main .softskills
+main .softskills /* softskills properties */
 
 {
     margin-left: 15.5rem;
@@ -54,7 +54,7 @@ main .softskills
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .softskillsp2
+main .softskillsp2 /* the UL of the softskills is splitted for a better placement */
 
 {
     margin-left: 28rem;
@@ -64,7 +64,7 @@ main .softskillsp2
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .exp-pro h4
+main .exp-pro h4  /* H4 of the professional experience properties */
 
 {
     margin-left: 15.5rem;
@@ -73,7 +73,7 @@ main .exp-pro h4
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .exp-pro ul
+main .exp-pro ul /* properties of the exp pro UL */
 
 {
     margin-left: 15.5rem;
@@ -82,13 +82,13 @@ main .exp-pro ul
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .diplomes h4
+main .diplomes h4 /* H4 size of .diplomes */
 
 {
     font-size: 1.2rem;
 }
 
-main .diplomes
+main .diplomes /* properties of diplomes */
 
 {
     margin-left: 15.5rem;
@@ -97,13 +97,13 @@ main .diplomes
     text-shadow: 0.2rem 0.1rem black;
 }
 
-main .hobbies h4
+main .hobbies h4 /* Properties of the H4 inside hobbies */
 
 {
     font-size: 1.2rem;
 }
 
-main .hobbies
+main .hobbies /* Properties of hobbies */
 
 {
     margin-left: 15.5rem;
@@ -112,7 +112,7 @@ main .hobbies
     text-shadow: 0.2rem 0.1rem black;
 }
 
-aside .left-border
+aside .left-border /* properties of the left side bar */
 
 {
     margin-top: -40.1rem;
@@ -121,13 +121,13 @@ aside .left-border
     text-shadow: 0.2rem 0.1rem black;
 }
 
-aside h3
+aside h3 /* h3 properties */
 
 {
     font-size: 1.2rem;
 }
 
-.sidebar
+.sidebar /* Proprties of the side bar */
 
 {
     position: absolute;
@@ -138,7 +138,7 @@ aside h3
     opacity: 0.35;
 }
 
-aside .picture
+aside .picture /* properties of the picture */
 
 {
     height: 30rem;
@@ -148,7 +148,7 @@ aside .picture
     left: 64rem;
 }
 
-aside .techskills
+aside .techskills /* properties of techskill section */
 
 {
     font-size: 1.3rem;
@@ -158,37 +158,38 @@ aside .techskills
     text-decoration: overline underline;
 }
 
-aside .niveauhtml, .niveaucss, .niveaujs, .niveauphp, .niveausql
+aside .niveauhtml, .niveaucss, .niveaujs, .niveauphp, .niveausql /* Properties of the stars pictures */
 
 {
-    height: 4rem;
-    width: 16rem;
+    margin-top: 0.6rem
+    height: 2rem;
+    width: 8rem;
 }
 
 
-footer h2
+footer h2 /* Properties of the footer title */
 
 {
     font-size: 1.4rem;
 }
 
-footer
+footer /* Properties of the footer */
 
 {
     margin-left: 15.5rem;
-    margin-top: -15rem;
+    margin-top: 13rem;
     color: white;
     text-shadow: 0.2rem 0.1rem black;
 }
 
-.githubslim
+.githubslim /* Properties of the GITHUB link image */
 
 {
     height: 60px;
     width: 60px;
 }
 
-.twitterslim
+.twitterslim /* Properties of the TWITTER link image */
 
 {
     height: 60px;
