@@ -1,16 +1,16 @@
 body
 
 {
-    background-image: url("backgroundimg.png");
+    background-image: url("/home/slim/CvSlim/images/backgroundimg.png");
 }
 
 .header
 
 {
     text-align: center;
-    margin-left: -40rem;
-    text-shadow: 0.1rem 0.15rem black;
+    margin-left: -30rem;
     color: white;
+    text-shadow: 0.2rem 0.1rem black;
 }
 
 .header h2
@@ -30,7 +30,7 @@ body
 main h2
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     margin-top: 3rem;
     font-size: 1.4rem;
     text-decoration: underline;
@@ -47,7 +47,7 @@ main .softskills h4
 main .softskills
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     margin-top: 3rem;
     font-size: 1.1rem;
     color: white;
@@ -57,7 +57,7 @@ main .softskills
 main .softskillsp2
 
 {
-    margin-left: 25rem;
+    margin-left: 28rem;
     margin-top: -3.7rem;
     font-size: 1.1rem;
     color: white;
@@ -67,7 +67,7 @@ main .softskillsp2
 main .exp-pro h4
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     font-size: 1.2rem;
     color: white;
     text-shadow: 0.2rem 0.1rem black;
@@ -76,7 +76,7 @@ main .exp-pro h4
 main .exp-pro ul
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     font-size: 1.1rem;
     color: white;
     text-shadow: 0.2rem 0.1rem black;
@@ -91,7 +91,7 @@ main .diplomes h4
 main .diplomes
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     font-size: 1.1rem;
     color: white;
     text-shadow: 0.2rem 0.1rem black;
@@ -106,8 +106,37 @@ main .hobbies h4
 main .hobbies
 
 {
-    margin-left: 12.5rem;
+    margin-left: 15.5rem;
     font-size: 1.1rem;
     color: white;
     text-shadow: 0.2rem 0.1rem black;
 }
+
+aside .left-border
+
+{
+    margin-top: -40.1rem;
+    padding-left: 1rem;
+    color:white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+aside h3
+
+{
+    font-size: 1.2rem;
+}
+
+.sidebar
+
+{
+    position: absolute;
+    top: 0%;
+    height: 120%;
+    width: 15rem;
+    background-color: black;
+    opacity: 0.35;
+}
+
+
+
