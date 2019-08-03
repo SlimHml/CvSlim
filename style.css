@@ -158,13 +158,39 @@ aside .techskills /* properties of techskill section */
     text-decoration: overline underline;
 }
 
-aside .niveauhtml, .niveaucss, .niveaujs, .niveauphp, .niveausql /* Properties of the stars pictures */
+aside .niveauhtml, .niveaucss, .niveaujs, .niveauphp, .niveausql /* Properties of the STARS PICTURES */
 
 {
     margin-top: 0.6rem
     height: 2rem;
     width: 8rem;
 }
+
+/*STAR PICTURES MARGINS /////////////////////////////////////////////////////////////////// */
+
+aside .niveauhtml
+{
+    margin-left: 0.8rem;
+}
+
+aside .niveaucss
+
+{
+    margin-left: 2.2rem;
+}
+
+aside .niveauphp
+
+{
+    margin-left: 3.1rem;
+}
+
+aside .niveausql
+{
+    margin-left: 3.4rem;
+}
+
+/* END OF THE STAR PICTURES MARGIN //////////////////////////////////////////////////////////*/
 
 
 footer h2 /* Properties of the footer title */
