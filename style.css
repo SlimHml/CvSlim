@@ -1,0 +1,113 @@
+body
+
+{
+    background-image: url("backgroundimg.png");
+}
+
+.header
+
+{
+    text-align: center;
+    margin-left: -40rem;
+    text-shadow: 0.1rem 0.15rem black;
+    color: white;
+}
+
+.header h2
+
+{
+    letter-spacing: 0.3rem;
+    font-size: 1.7rem;
+}
+
+.header p
+
+{   
+    margin-left: -3rem;
+    font-size: 1.2rem;
+}
+
+main h2
+
+{
+    margin-left: 12.5rem;
+    margin-top: 3rem;
+    font-size: 1.4rem;
+    text-decoration: underline;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .softskills h4
+
+{
+    font-size: 1.2rem;
+}
+
+main .softskills
+
+{
+    margin-left: 12.5rem;
+    margin-top: 3rem;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .softskillsp2
+
+{
+    margin-left: 25rem;
+    margin-top: -3.7rem;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .exp-pro h4
+
+{
+    margin-left: 12.5rem;
+    font-size: 1.2rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .exp-pro ul
+
+{
+    margin-left: 12.5rem;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .diplomes h4
+
+{
+    font-size: 1.2rem;
+}
+
+main .diplomes
+
+{
+    margin-left: 12.5rem;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
+
+main .hobbies h4
+
+{
+    font-size: 1.2rem;
+}
+
+main .hobbies
+
+{
+    margin-left: 12.5rem;
+    font-size: 1.1rem;
+    color: white;
+    text-shadow: 0.2rem 0.1rem black;
+}
